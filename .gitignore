@@ -1,1 +1,5 @@
 kitteeos-backup.tar.gz
+# Игнорируем тяжелые файлы сборки ОС
+*.iso
+*.tar.gz
+iso_build/CD/live/filesystem.squashfs
